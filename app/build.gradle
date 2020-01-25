@@ -76,4 +76,6 @@ dependencies {
     implementation "org.koin:koin-android-scope:$koin_version"
     // Koin Android ViewModel features
     implementation "org.koin:koin-android-viewmodel:$koin_version"
+
+    implementation 'com.github.Tobibur:pagination-android:1.1'
 }

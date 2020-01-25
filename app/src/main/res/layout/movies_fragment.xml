@@ -14,6 +14,8 @@
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/recycler_movies"/>
+        android:id="@+id/recycler_movies"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="?attr/actionBarSize"/>
 
 </RelativeLayout>
